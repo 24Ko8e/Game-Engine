@@ -10,5 +10,7 @@ namespace GEngine
 		virtual ~Application();
 		void Run();
 	};
+
+	Application* CreateApplication();
 }
 

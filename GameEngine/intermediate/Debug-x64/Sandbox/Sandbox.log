@@ -1,1 +1,2 @@
-﻿LINK : fatal error LNK1104: cannot open file 'D:\Github\Game-Engine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.lib'
+﻿  Sandbox.cpp
+  Sandbox.vcxproj -> D:\Github\Game-Engine\GameEngine\bin\Debug-x64\Sandbox\Sandbox.exe

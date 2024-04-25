@@ -137,6 +137,7 @@
   <ItemGroup>
     <ClInclude Include="src\Core\Application.h" />
     <ClInclude Include="src\Core\Core.h" />
+    <ClInclude Include="src\Core\EntryPoint.h" />
     <ClInclude Include="src\GEngine.h" />
   </ItemGroup>
   <ItemGroup>

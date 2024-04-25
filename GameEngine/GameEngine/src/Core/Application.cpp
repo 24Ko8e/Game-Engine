@@ -15,5 +15,6 @@ namespace GEngine
 	void Application::Run()
 	{
 		printf("Application started!");
+		while (true);
 	}
 }
