@@ -1,2 +1,13 @@
-﻿  Application.cpp
+﻿  Log.cpp
+D:\Github\Game-Engine\GameEngine\GameEngine\src\Core\Log.h(13,42): warning C4251: 'GEngine::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'GEngine::Log'
+  (compiling source file 'src/Core/Log.cpp')
+  D:\Github\Game-Engine\GameEngine\GameEngine\vendor\spdlog\include\spdlog\details\registry.h(37,31):
+  see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+D:\Github\Game-Engine\GameEngine\GameEngine\src\Core\Log.h(14,42): warning C4251: 'GEngine::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'GEngine::Log'
+  (compiling source file 'src/Core/Log.cpp')
+  D:\Github\Game-Engine\GameEngine\GameEngine\vendor\spdlog\include\spdlog\details\registry.h(37,31):
+  see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+     Creating library D:\Github\Game-Engine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.lib and object D:\Github\Game-Engine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.exp
   GameEngine.vcxproj -> D:\Github\Game-Engine\GameEngine\bin\Debug-x64\GameEngine\GameEngine.dll
